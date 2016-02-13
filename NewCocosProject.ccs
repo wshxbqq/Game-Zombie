@@ -1,0 +1,65 @@
+<Solution>
+  <PropertyGroup Name="NewCocosProject" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="img">
+          <Folder Name="slice">
+            <Image Name="again-btn.png" />
+            <Image Name="bang.png" />
+            <Image Name="candle.png" />
+            <Image Name="coffin.png" />
+            <Image Name="coffin-open.png" />
+            <Image Name="dancer.png" />
+            <Image Name="dancer-0.png" />
+            <Image Name="dancer-1.png" />
+            <Image Name="dancer-2.png" />
+            <Image Name="dancer-3.png" />
+            <Image Name="dancer-4.png" />
+            <Image Name="gameover.png" />
+            <Image Name="gameover-board.png" />
+            <Image Name="gem-0.png" />
+            <Image Name="gem-1.png" />
+            <Image Name="gem-2.png" />
+            <Image Name="gem-3.png" />
+            <Image Name="human.png" />
+            <Image Name="human-0.png" />
+            <Image Name="human-1.png" />
+            <Image Name="human-2.png" />
+            <Image Name="human-3.png" />
+            <Image Name="human-4.png" />
+            <Image Name="light.png" />
+            <Image Name="mummy.png" />
+            <Image Name="mummy-0.png" />
+            <Image Name="mummy-1.png" />
+            <Image Name="mummy-2.png" />
+            <Image Name="mummy-3.png" />
+            <Image Name="mummy-4.png" />
+            <Image Name="shadow.png" />
+            <Image Name="stone-bg.png" />
+            <Image Name="style-0.png" />
+            <Image Name="style-1.png" />
+            <Image Name="style-2.png" />
+            <Image Name="style-3.png" />
+            <Image Name="style-4.png" />
+            <Image Name="zhuhuo.png" />
+          </Folder>
+          <Image Name="bkg.jpg" />
+          <Image Name="bkg-2.jpg" />
+          <Image Name="page-0.png" />
+          <Image Name="page-1.png" />
+          <Image Name="page-2.png" />
+          <Image Name="page-3.png" />
+          <Image Name="page-4.png" />
+          <Image Name="page-5.png" />
+          <Image Name="page-6.png" />
+          <PlistInfo Name="slice.csi" Type="Plist" />
+        </Folder>
+        <Project Name="EndLayer.csd" Type="Layer" />
+        <Project Name="GameLayer.csd" Type="Layer" />
+        <Project Name="StartLayer.csd" Type="Layer" />
+        <Project Name="WinLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

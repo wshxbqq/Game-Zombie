@@ -1,0 +1,158 @@
+{
+  "ID": "0b05ac8e-2764-4fd5-8aeb-93314ec4f162",
+  "Version": "3.10.0.0",
+  "Name": "IntroLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 16,
+        "Children": [
+          {
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 324.6628,
+              "Y": 685.037
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5073,
+              "Y": 0.6228
+            },
+            "PreSize": {
+              "X": 0.1563,
+              "Y": 0.0182
+            },
+            "LeftMargin": 274.6628,
+            "RightMargin": 265.3372,
+            "TopMargin": 404.963,
+            "BottomMargin": 675.037,
+            "Tag": 22,
+            "ActionTag": 597089030,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "Button",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 332.7787,
+              "Y": 376.608
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.52,
+              "Y": 0.3424
+            },
+            "PreSize": {
+              "X": 0.4688,
+              "Y": 0.2727
+            },
+            "LeftMargin": 182.7787,
+            "RightMargin": 157.2213,
+            "TopMargin": 573.392,
+            "BottomMargin": 226.608,
+            "Tag": 23,
+            "ActionTag": -762750507,
+            "Size": {
+              "X": 300.0,
+              "Y": 300.0
+            },
+            "Name": "Button_Start",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1100.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

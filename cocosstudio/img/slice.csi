@@ -1,0 +1,46 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="slice" Type="Plist" ID="638136e3-4dc4-44c2-bb91-d60f9fab18e3" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="img/slice/candle.png" />
+      <FilePathData Path="img/slice/dancer.png" />
+      <FilePathData Path="img/slice/human.png" />
+      <FilePathData Path="img/slice/human-0.png" />
+      <FilePathData Path="img/slice/human-1.png" />
+      <FilePathData Path="img/slice/human-2.png" />
+      <FilePathData Path="img/slice/human-3.png" />
+      <FilePathData Path="img/slice/human-4.png" />
+      <FilePathData Path="img/slice/light.png" />
+      <FilePathData Path="img/slice/mummy.png" />
+      <FilePathData Path="img/slice/mummy-0.png" />
+      <FilePathData Path="img/slice/mummy-1.png" />
+      <FilePathData Path="img/slice/mummy-2.png" />
+      <FilePathData Path="img/slice/mummy-3.png" />
+      <FilePathData Path="img/slice/mummy-4.png" />
+      <FilePathData Path="img/slice/stone-bg.png" />
+      <FilePathData Path="img/slice/style-0.png" />
+      <FilePathData Path="img/slice/style-1.png" />
+      <FilePathData Path="img/slice/style-2.png" />
+      <FilePathData Path="img/slice/style-3.png" />
+      <FilePathData Path="img/slice/style-4.png" />
+      <FilePathData Path="img/slice/zhuhuo.png" />
+      <FilePathData Path="img/slice/dancer-0.png" />
+      <FilePathData Path="img/slice/dancer-1.png" />
+      <FilePathData Path="img/slice/dancer-2.png" />
+      <FilePathData Path="img/slice/dancer-3.png" />
+      <FilePathData Path="img/slice/dancer-4.png" />
+      <FilePathData Path="img/slice/gem-0.png" />
+      <FilePathData Path="img/slice/gem-1.png" />
+      <FilePathData Path="img/slice/gem-2.png" />
+      <FilePathData Path="img/slice/gem-3.png" />
+      <FilePathData Path="img/slice/shadow.png" />
+      <FilePathData Path="img/slice/bang.png" />
+      <FilePathData Path="img/slice/gameover.png" />
+      <FilePathData Path="img/slice/again-btn.png" />
+      <FilePathData Path="img/slice/gameover-board.png" />
+      <FilePathData Path="img/slice/coffin.png" />
+      <FilePathData Path="img/slice/coffin-open.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

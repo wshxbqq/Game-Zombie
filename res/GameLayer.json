@@ -1,0 +1,2423 @@
+{
+  "ID": "1269ce68-8a49-45a3-b090-1df507f52923",
+  "Version": "3.10.0.0",
+  "Name": "GameLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 18,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "img/bkg.jpg",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 211,
+            "Scale9OriginY": 363,
+            "Scale9Width": 218,
+            "Scale9Height": 374,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 20,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/gem-0.png",
+                  "Plist": "img/slice.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 219.1242,
+                  "Y": 657.3796
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3424,
+                  "Y": 0.5976
+                },
+                "PreSize": {
+                  "X": 0.0359,
+                  "Y": 0.0127
+                },
+                "LeftMargin": 207.6242,
+                "RightMargin": 409.3758,
+                "TopMargin": 435.6204,
+                "BottomMargin": 650.3796,
+                "Tag": 50,
+                "ActionTag": 731540539,
+                "Size": {
+                  "X": 23.0,
+                  "Y": 14.0
+                },
+                "Name": "Sprite_Gem_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/gem-1.png",
+                  "Plist": "img/slice.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 415.5151,
+                  "Y": 662.3701
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6492,
+                  "Y": 0.6022
+                },
+                "PreSize": {
+                  "X": 0.0391,
+                  "Y": 0.0127
+                },
+                "LeftMargin": 403.0151,
+                "RightMargin": 211.9849,
+                "TopMargin": 430.6299,
+                "BottomMargin": 655.3701,
+                "Tag": 51,
+                "ActionTag": 583327975,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 14.0
+                },
+                "Name": "Sprite_Gem_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/gem-2.png",
+                  "Plist": "img/slice.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 204.6838,
+                  "Y": 607.6202
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3198,
+                  "Y": 0.5524
+                },
+                "PreSize": {
+                  "X": 0.05,
+                  "Y": 0.0173
+                },
+                "LeftMargin": 188.6838,
+                "RightMargin": 419.3162,
+                "TopMargin": 482.8798,
+                "BottomMargin": 598.1202,
+                "Tag": 52,
+                "ActionTag": -55892086,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 19.0
+                },
+                "Name": "Sprite_Gem_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/gem-3.png",
+                  "Plist": "img/slice.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 445.8813,
+                  "Y": 608.0072
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6967,
+                  "Y": 0.5527
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0145
+                },
+                "LeftMargin": 429.3813,
+                "RightMargin": 177.6187,
+                "TopMargin": 483.9928,
+                "BottomMargin": 600.0072,
+                "Tag": 53,
+                "ActionTag": 1989066727,
+                "Size": {
+                  "X": 33.0,
+                  "Y": 16.0
+                },
+                "Name": "Sprite_Gem_3",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1362772503,
+            "Size": {
+              "X": 640.0,
+              "Y": 1100.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/light.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 324.6598,
+              "Y": 940.8154
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5073,
+              "Y": 0.8553
+            },
+            "PreSize": {
+              "X": 0.5484,
+              "Y": 0.29
+            },
+            "LeftMargin": 149.1598,
+            "RightMargin": 139.8402,
+            "TopMargin": -0.3154,
+            "BottomMargin": 781.3154,
+            "Tag": 62,
+            "ActionTag": 840616423,
+            "Size": {
+              "X": 351.0,
+              "Y": 319.0
+            },
+            "Name": "light_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/dancer.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 329.7735,
+              "Y": 864.5345
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5153,
+              "Y": 0.7859
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.1818
+            },
+            "LeftMargin": 254.7735,
+            "RightMargin": 235.2265,
+            "TopMargin": 135.4655,
+            "BottomMargin": 764.5345,
+            "Tag": 42,
+            "ActionTag": 1185981566,
+            "Size": {
+              "X": 150.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_Leader_Zombie",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1818
+            },
+            "TopMargin": 900.0,
+            "Tag": 24,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/stone-bg.png",
+                  "Plist": "img/slice.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 84,
+                "Scale9Height": 156,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.0,
+                  "Y": -100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1125,
+                  "Y": -0.5
+                },
+                "PreSize": {
+                  "X": 0.1781,
+                  "Y": 0.89
+                },
+                "LeftMargin": 15.0,
+                "RightMargin": 511.0,
+                "TopMargin": 211.0,
+                "BottomMargin": -189.0,
+                "Tag": 37,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "img/slice/style-0.png",
+                      "Plist": "img/slice.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.0,
+                      "Y": 89.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 21,
+                    "ActionTag": 173630806,
+                    "Size": {
+                      "X": 114.0,
+                      "Y": 178.0
+                    },
+                    "Name": "Button_Dance_0_Inner",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -939752532,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 178.0
+                },
+                "Name": "Button_Dance_0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/stone-bg.png",
+                  "Plist": "img/slice.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 84,
+                "Scale9Height": 156,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.0,
+                  "Y": -100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3125,
+                  "Y": -0.5
+                },
+                "PreSize": {
+                  "X": 0.1781,
+                  "Y": 0.89
+                },
+                "LeftMargin": 143.0,
+                "RightMargin": 383.0,
+                "TopMargin": 211.0,
+                "BottomMargin": -189.0,
+                "Tag": 38,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "img/slice/style-1.png",
+                      "Plist": "img/slice.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.0,
+                      "Y": 89.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 22,
+                    "ActionTag": -436240064,
+                    "Size": {
+                      "X": 114.0,
+                      "Y": 178.0
+                    },
+                    "Name": "Button_Dance_1_Inner",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1076317227,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 178.0
+                },
+                "Name": "Button_Dance_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/stone-bg.png",
+                  "Plist": "img/slice.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 84,
+                "Scale9Height": 156,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 325.0,
+                  "Y": -100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5078,
+                  "Y": -0.5
+                },
+                "PreSize": {
+                  "X": 0.1781,
+                  "Y": 0.89
+                },
+                "LeftMargin": 268.0,
+                "RightMargin": 258.0,
+                "TopMargin": 211.0,
+                "BottomMargin": -189.0,
+                "Tag": 39,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "img/slice/style-2.png",
+                      "Plist": "img/slice.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.0,
+                      "Y": 89.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 23,
+                    "ActionTag": -2054907430,
+                    "Size": {
+                      "X": 114.0,
+                      "Y": 178.0
+                    },
+                    "Name": "Button_Dance_2_Inner",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1027970725,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 178.0
+                },
+                "Name": "Button_Dance_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/stone-bg.png",
+                  "Plist": "img/slice.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 84,
+                "Scale9Height": 156,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 450.0,
+                  "Y": -100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7031,
+                  "Y": -0.5
+                },
+                "PreSize": {
+                  "X": 0.1781,
+                  "Y": 0.89
+                },
+                "LeftMargin": 393.0,
+                "RightMargin": 133.0,
+                "TopMargin": 211.0,
+                "BottomMargin": -189.0,
+                "Tag": 40,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "img/slice/style-3.png",
+                      "Plist": "img/slice.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.0,
+                      "Y": 89.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 24,
+                    "ActionTag": -428122792,
+                    "Size": {
+                      "X": 114.0,
+                      "Y": 178.0
+                    },
+                    "Name": "Button_Dance_3_Inner",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 796780466,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 178.0
+                },
+                "Name": "Button_Dance_3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "img/slice/stone-bg.png",
+                  "Plist": "img/slice.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 84,
+                "Scale9Height": 156,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 570.0,
+                  "Y": -100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8906,
+                  "Y": -0.5
+                },
+                "PreSize": {
+                  "X": 0.1781,
+                  "Y": 0.89
+                },
+                "LeftMargin": 513.0,
+                "RightMargin": 13.0,
+                "TopMargin": 211.0,
+                "BottomMargin": -189.0,
+                "Tag": 41,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "img/slice/style-4.png",
+                      "Plist": "img/slice.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.0,
+                      "Y": 89.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 25,
+                    "ActionTag": 754021811,
+                    "Size": {
+                      "X": 114.0,
+                      "Y": 178.0
+                    },
+                    "Name": "Button_Dance_4_Inner",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1872511421,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 178.0
+                },
+                "Name": "Button_Dance_4",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1772025901,
+            "Size": {
+              "X": 640.0,
+              "Y": 200.0
+            },
+            "Name": "Panel_Dance",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/candle.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 142.8214,
+              "Y": 601.381
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2232,
+              "Y": 0.5467
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0409
+            },
+            "LeftMargin": 131.8214,
+            "RightMargin": 486.1786,
+            "TopMargin": 476.119,
+            "BottomMargin": 578.881,
+            "Tag": 44,
+            "ActionTag": -1501436685,
+            "Size": {
+              "X": 22.0,
+              "Y": 45.0
+            },
+            "Name": "Sprite_Candle_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/candle.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 142.0134,
+              "Y": 515.0862
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2219,
+              "Y": 0.4683
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0409
+            },
+            "LeftMargin": 131.0134,
+            "RightMargin": 486.9866,
+            "TopMargin": 562.4138,
+            "BottomMargin": 492.5862,
+            "Tag": 45,
+            "ActionTag": -2019589224,
+            "Size": {
+              "X": 22.0,
+              "Y": 45.0
+            },
+            "Name": "Sprite_Candle_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/candle.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 253.5402,
+              "Y": 464.9444
+            },
+            "Scale": {
+              "ScaleX": -1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3962,
+              "Y": 0.4227
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0409
+            },
+            "LeftMargin": 242.5402,
+            "RightMargin": 375.4598,
+            "TopMargin": 612.5556,
+            "BottomMargin": 442.4444,
+            "Tag": 46,
+            "ActionTag": 2004447000,
+            "Size": {
+              "X": 22.0,
+              "Y": 45.0
+            },
+            "Name": "Sprite_Candle_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/candle.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 379.5464,
+              "Y": 466.2178
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.593,
+              "Y": 0.4238
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0409
+            },
+            "LeftMargin": 368.5464,
+            "RightMargin": 249.4536,
+            "TopMargin": 611.2822,
+            "BottomMargin": 443.7178,
+            "Tag": 47,
+            "ActionTag": -574388233,
+            "Size": {
+              "X": 22.0,
+              "Y": 45.0
+            },
+            "Name": "Sprite_Candle_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/candle.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 502.2437,
+              "Y": 515.4079
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7848,
+              "Y": 0.4686
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0409
+            },
+            "LeftMargin": 491.2437,
+            "RightMargin": 126.7563,
+            "TopMargin": 562.0921,
+            "BottomMargin": 492.9079,
+            "Tag": 48,
+            "ActionTag": 781746279,
+            "Size": {
+              "X": 22.0,
+              "Y": 45.0
+            },
+            "Name": "Sprite_Candle_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/candle.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 504.3698,
+              "Y": 594.1138
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7881,
+              "Y": 0.5401
+            },
+            "PreSize": {
+              "X": 0.0344,
+              "Y": 0.0409
+            },
+            "LeftMargin": 493.3698,
+            "RightMargin": 124.6302,
+            "TopMargin": 483.3862,
+            "BottomMargin": 571.6138,
+            "Tag": 49,
+            "ActionTag": -1881771891,
+            "Size": {
+              "X": 22.0,
+              "Y": 45.0
+            },
+            "Name": "Sprite_Candle_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/zhuhuo.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 142.5125,
+              "Y": 633.6197
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2227,
+              "Y": 0.576
+            },
+            "PreSize": {
+              "X": 0.1031,
+              "Y": 0.0645
+            },
+            "LeftMargin": 109.5125,
+            "RightMargin": 464.4875,
+            "TopMargin": 430.8803,
+            "BottomMargin": 598.1197,
+            "Tag": 56,
+            "ActionTag": 1373824722,
+            "Size": {
+              "X": 66.0,
+              "Y": 71.0
+            },
+            "VisibleForFrame": false,
+            "Name": "zhuhuo_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/zhuhuo.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 140.5142,
+              "Y": 545.7511
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2196,
+              "Y": 0.4961
+            },
+            "PreSize": {
+              "X": 0.1031,
+              "Y": 0.0645
+            },
+            "LeftMargin": 107.5142,
+            "RightMargin": 466.4858,
+            "TopMargin": 518.7489,
+            "BottomMargin": 510.2511,
+            "Tag": 57,
+            "ActionTag": -685994072,
+            "Size": {
+              "X": 66.0,
+              "Y": 71.0
+            },
+            "VisibleForFrame": false,
+            "Name": "zhuhuo_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/zhuhuo.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 252.6993,
+              "Y": 495.3402
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3948,
+              "Y": 0.4503
+            },
+            "PreSize": {
+              "X": 0.1031,
+              "Y": 0.0645
+            },
+            "LeftMargin": 219.6993,
+            "RightMargin": 354.3007,
+            "TopMargin": 569.1598,
+            "BottomMargin": 459.8402,
+            "Tag": 58,
+            "ActionTag": 318844614,
+            "Size": {
+              "X": 66.0,
+              "Y": 71.0
+            },
+            "VisibleForFrame": false,
+            "Name": "zhuhuo_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/zhuhuo.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 382.7531,
+              "Y": 495.8042
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5981,
+              "Y": 0.4507
+            },
+            "PreSize": {
+              "X": 0.1031,
+              "Y": 0.0645
+            },
+            "LeftMargin": 349.7531,
+            "RightMargin": 224.2469,
+            "TopMargin": 568.6958,
+            "BottomMargin": 460.3042,
+            "Tag": 59,
+            "ActionTag": -1181653055,
+            "Size": {
+              "X": 66.0,
+              "Y": 71.0
+            },
+            "VisibleForFrame": false,
+            "Name": "zhuhuo_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/zhuhuo.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 505.3759,
+              "Y": 546.8967
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7896,
+              "Y": 0.4972
+            },
+            "PreSize": {
+              "X": 0.1031,
+              "Y": 0.0645
+            },
+            "LeftMargin": 472.3759,
+            "RightMargin": 101.6241,
+            "TopMargin": 517.6033,
+            "BottomMargin": 511.3967,
+            "Tag": 60,
+            "ActionTag": 1436921470,
+            "Size": {
+              "X": 66.0,
+              "Y": 71.0
+            },
+            "VisibleForFrame": false,
+            "Name": "zhuhuo_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/zhuhuo.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 508.162,
+              "Y": 625.3932
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.794,
+              "Y": 0.5685
+            },
+            "PreSize": {
+              "X": 0.1031,
+              "Y": 0.0645
+            },
+            "LeftMargin": 475.162,
+            "RightMargin": 98.838,
+            "TopMargin": 439.1068,
+            "BottomMargin": 589.8932,
+            "Tag": 61,
+            "ActionTag": -591135983,
+            "Size": {
+              "X": 66.0,
+              "Y": 71.0
+            },
+            "VisibleForFrame": false,
+            "Name": "zhuhuo_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/shadow.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 181.5132,
+              "Y": 309.1509
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2836,
+              "Y": 0.281
+            },
+            "PreSize": {
+              "X": 0.1344,
+              "Y": 0.0255
+            },
+            "LeftMargin": 138.5132,
+            "RightMargin": 415.4868,
+            "TopMargin": 776.8491,
+            "BottomMargin": 295.1509,
+            "Tag": 63,
+            "ActionTag": 797181626,
+            "Size": {
+              "X": 86.0,
+              "Y": 28.0
+            },
+            "Name": "shadow_27",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/shadow.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 463.8982,
+              "Y": 324.7508
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7248,
+              "Y": 0.2952
+            },
+            "PreSize": {
+              "X": 0.1344,
+              "Y": 0.0255
+            },
+            "LeftMargin": 420.8982,
+            "RightMargin": 133.1018,
+            "TopMargin": 761.2492,
+            "BottomMargin": 310.7508,
+            "Tag": 66,
+            "ActionTag": 2056281120,
+            "Size": {
+              "X": 86.0,
+              "Y": 28.0
+            },
+            "Name": "shadow_27_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/shadow.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 91.9442,
+              "Y": 401.7906
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1437,
+              "Y": 0.3653
+            },
+            "PreSize": {
+              "X": 0.1344,
+              "Y": 0.0255
+            },
+            "LeftMargin": 48.9442,
+            "RightMargin": 505.0558,
+            "TopMargin": 684.2094,
+            "BottomMargin": 387.7906,
+            "Tag": 67,
+            "ActionTag": 1366598732,
+            "Size": {
+              "X": 86.0,
+              "Y": 28.0
+            },
+            "Name": "shadow_27_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/shadow.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 551.41,
+              "Y": 409.1987
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8616,
+              "Y": 0.372
+            },
+            "PreSize": {
+              "X": 0.1344,
+              "Y": 0.0255
+            },
+            "LeftMargin": 508.41,
+            "RightMargin": 45.59,
+            "TopMargin": 676.8013,
+            "BottomMargin": 395.1987,
+            "Tag": 68,
+            "ActionTag": 803489682,
+            "Size": {
+              "X": 86.0,
+              "Y": 28.0
+            },
+            "Name": "shadow_27_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/shadow.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 559.4331,
+              "Y": 542.558
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8741,
+              "Y": 0.4932
+            },
+            "PreSize": {
+              "X": 0.1344,
+              "Y": 0.0255
+            },
+            "LeftMargin": 516.4331,
+            "RightMargin": 37.5669,
+            "TopMargin": 543.442,
+            "BottomMargin": 528.558,
+            "Tag": 69,
+            "ActionTag": 1942754896,
+            "Size": {
+              "X": 86.0,
+              "Y": 28.0
+            },
+            "Name": "shadow_27_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/shadow.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 71.7683,
+              "Y": 534.6068
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1121,
+              "Y": 0.486
+            },
+            "PreSize": {
+              "X": 0.1344,
+              "Y": 0.0255
+            },
+            "LeftMargin": 28.7683,
+            "RightMargin": 525.2317,
+            "TopMargin": 551.3932,
+            "BottomMargin": 520.6068,
+            "Tag": 70,
+            "ActionTag": 191651091,
+            "Size": {
+              "X": 86.0,
+              "Y": 28.0
+            },
+            "Name": " shadow_27_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/shadow.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 323.3707,
+              "Y": 266.1492
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5053,
+              "Y": 0.242
+            },
+            "PreSize": {
+              "X": 0.1344,
+              "Y": 0.0255
+            },
+            "LeftMargin": 280.3707,
+            "RightMargin": 273.6293,
+            "TopMargin": 819.8508,
+            "BottomMargin": 252.1492,
+            "Tag": 71,
+            "ActionTag": 292908445,
+            "Size": {
+              "X": 86.0,
+              "Y": 28.0
+            },
+            "Name": "shadow_27_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/mummy.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.7391,
+              "Y": 602.5513
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8887,
+              "Y": 0.5478
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.1818
+            },
+            "LeftMargin": 493.7391,
+            "RightMargin": -3.7391,
+            "TopMargin": 397.4487,
+            "BottomMargin": 502.5513,
+            "Tag": 43,
+            "ActionTag": 1563572817,
+            "Size": {
+              "X": 150.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_Zombie_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/mummy.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 563.8307,
+              "Y": 470.0162
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.881,
+              "Y": 0.4273
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.1818
+            },
+            "LeftMargin": 488.8307,
+            "RightMargin": 1.1693,
+            "TopMargin": 529.9838,
+            "BottomMargin": 370.0162,
+            "Tag": 42,
+            "ActionTag": -1939296139,
+            "Size": {
+              "X": 150.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_Zombie_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/mummy.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 474.088,
+              "Y": 384.9336
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7408,
+              "Y": 0.3499
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.1818
+            },
+            "LeftMargin": 399.088,
+            "RightMargin": 90.912,
+            "TopMargin": 615.0664,
+            "BottomMargin": 284.9336,
+            "Tag": 40,
+            "ActionTag": -2109071766,
+            "Size": {
+              "X": 150.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_Zombie_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/human.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 323.8403,
+              "Y": 325.8318
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.506,
+              "Y": 0.2962
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.1818
+            },
+            "LeftMargin": 248.8403,
+            "RightMargin": 241.1597,
+            "TopMargin": 674.1682,
+            "BottomMargin": 225.8318,
+            "Tag": 39,
+            "ActionTag": 38740541,
+            "Size": {
+              "X": 150.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_Player",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/mummy.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 193.3295,
+              "Y": 374.4069
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3021,
+              "Y": 0.3404
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.1818
+            },
+            "LeftMargin": 118.3295,
+            "RightMargin": 371.6705,
+            "TopMargin": 625.5931,
+            "BottomMargin": 274.4069,
+            "Tag": 38,
+            "ActionTag": 1086542122,
+            "Size": {
+              "X": 150.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_Zombie_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/mummy.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 99.554,
+              "Y": 462.4131
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1556,
+              "Y": 0.4204
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.1818
+            },
+            "LeftMargin": 24.554,
+            "RightMargin": 465.446,
+            "TopMargin": 537.5869,
+            "BottomMargin": 362.4131,
+            "Tag": 37,
+            "ActionTag": 1825792285,
+            "Size": {
+              "X": 150.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_Zombie_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/mummy.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 80.7715,
+              "Y": 598.1879
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1262,
+              "Y": 0.5438
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.1818
+            },
+            "LeftMargin": 5.7715,
+            "RightMargin": 484.2285,
+            "TopMargin": 401.8121,
+            "BottomMargin": 498.1879,
+            "Tag": 36,
+            "ActionTag": 654428987,
+            "Size": {
+              "X": 150.0,
+              "Y": 200.0
+            },
+            "Name": "Sprite_Zombie_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/bang.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 563.3224,
+              "Y": 561.877
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "RotationSkewX": 8.1358,
+            "RotationSkewY": 8.1358,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8802,
+              "Y": 0.5108
+            },
+            "PreSize": {
+              "X": 0.0391,
+              "Y": 0.0873
+            },
+            "LeftMargin": 550.8224,
+            "RightMargin": 64.1776,
+            "TopMargin": 490.123,
+            "BottomMargin": 513.877,
+            "Tag": 56,
+            "ActionTag": 1652813770,
+            "Size": {
+              "X": 25.0,
+              "Y": 96.0
+            },
+            "VisibleForFrame": false,
+            "Name": "bang_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/bang.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 79.5648,
+              "Y": 702.2333
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "RotationSkewX": 8.1376,
+            "RotationSkewY": 8.1355,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1243,
+              "Y": 0.6384
+            },
+            "PreSize": {
+              "X": 0.0391,
+              "Y": 0.0873
+            },
+            "LeftMargin": 67.0648,
+            "RightMargin": 547.9352,
+            "TopMargin": 349.7667,
+            "BottomMargin": 654.2333,
+            "Tag": 46,
+            "ActionTag": 2018227400,
+            "Size": {
+              "X": 25.0,
+              "Y": 96.0
+            },
+            "VisibleForFrame": false,
+            "Name": "bang_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/bang.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 96.8412,
+              "Y": 562.676
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "RotationSkewX": 8.1376,
+            "RotationSkewY": 8.1355,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1513,
+              "Y": 0.5115
+            },
+            "PreSize": {
+              "X": 0.0391,
+              "Y": 0.0873
+            },
+            "LeftMargin": 84.3412,
+            "RightMargin": 530.6588,
+            "TopMargin": 489.324,
+            "BottomMargin": 514.676,
+            "Tag": 52,
+            "ActionTag": -414092734,
+            "Size": {
+              "X": 25.0,
+              "Y": 96.0
+            },
+            "VisibleForFrame": false,
+            "Name": "bang_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/bang.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 194.3705,
+              "Y": 485.5243
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "RotationSkewX": 8.1379,
+            "RotationSkewY": 8.1354,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3037,
+              "Y": 0.4414
+            },
+            "PreSize": {
+              "X": 0.0391,
+              "Y": 0.0873
+            },
+            "LeftMargin": 181.8705,
+            "RightMargin": 433.1295,
+            "TopMargin": 566.4757,
+            "BottomMargin": 437.5243,
+            "Tag": 53,
+            "ActionTag": -1282372158,
+            "Size": {
+              "X": 25.0,
+              "Y": 96.0
+            },
+            "VisibleForFrame": false,
+            "Name": "bang_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/bang.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 561.0156,
+              "Y": 702.6163
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "RotationSkewX": 8.1407,
+            "RotationSkewY": 8.1358,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8766,
+              "Y": 0.6387
+            },
+            "PreSize": {
+              "X": 0.0391,
+              "Y": 0.0873
+            },
+            "LeftMargin": 548.5156,
+            "RightMargin": 66.4844,
+            "TopMargin": 349.3837,
+            "BottomMargin": 654.6163,
+            "Tag": 54,
+            "ActionTag": -1811629914,
+            "Size": {
+              "X": 25.0,
+              "Y": 96.0
+            },
+            "VisibleForFrame": false,
+            "Name": "bang_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "img/slice/bang.png",
+              "Plist": "img/slice.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 470.5692,
+              "Y": 485.9042
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "RotationSkewX": 8.1379,
+            "RotationSkewY": 8.1354,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7353,
+              "Y": 0.4417
+            },
+            "PreSize": {
+              "X": 0.0391,
+              "Y": 0.0873
+            },
+            "LeftMargin": 458.0692,
+            "RightMargin": 156.9308,
+            "TopMargin": 566.0958,
+            "BottomMargin": 437.9042,
+            "Tag": 55,
+            "ActionTag": 713756726,
+            "Size": {
+              "X": 25.0,
+              "Y": 96.0
+            },
+            "VisibleForFrame": false,
+            "Name": "bang_5",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1100.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "img/bkg.jpg",
+        "img/slice.plist",
+        "img/slice.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

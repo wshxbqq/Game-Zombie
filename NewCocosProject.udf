@@ -1,0 +1,22 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="img/slice.csi" />
+          <FilePathData Path="WinLayer.csd" />
+          <FilePathData Path="StartLayer.csd" />
+          <FilePathData Path="GameLayer.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="WinLayer.csd" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
